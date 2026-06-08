@@ -251,7 +251,7 @@ This project is a portfolio demonstration. Add your preferred license here (e.g.
 ## Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
+[GitHub](https://github.com/Mcmfrnc)
 
 ---
 
