@@ -254,7 +254,3 @@ This project is intended for educational and portfolio purposes.
 [GitHub](https://github.com/Mcmfrnc)
 
 ---
-
-<p align="center">
-  Built with Next.js, TypeScript, and Tailwind CSS — designed to demonstrate SaaS engineering craft in a deployable portfolio project.
-</p>
