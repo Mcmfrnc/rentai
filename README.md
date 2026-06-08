@@ -244,13 +244,13 @@ Uploaded images are converted to base64 data URLs and stored in the `vehicle.ima
 
 ## License
 
-This project is a portfolio demonstration. Add your preferred license here (e.g. MIT).
+This project is intended for educational and portfolio purposes.
 
 ---
 
 ## Author
 
-**Your Name**  
+**Mark**  
 [GitHub](https://github.com/Mcmfrnc)
 
 ---
